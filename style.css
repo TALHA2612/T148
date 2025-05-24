@@ -1,21 +1,27 @@
 body{
-background-color:Bue;
+background-color:Navy Blue;
 }
 h1{
-color:Green;
+font-style:waterfont;
+color:yellow;
 text-align: center;
 }
-.Rajubhai{
-Color:Red;
+h3{
+font-style:waterfont;
+color:Beige;
+text-align: center;
+}
+.Ruku14{
+Color:orange;
 font-size:45px;
 border-radius:12px;
-background:blue;
+background:purple;
 }
-.Rajabhai{
+.Ruku18{
 color:orange;
 border-radius:12px;
 font-size:45px;
-background:green;
+background:purple;
 }
 
 
